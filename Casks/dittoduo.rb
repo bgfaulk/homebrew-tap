@@ -1,11 +1,11 @@
 cask "dittoduo" do
-  version "1.4.1"
-  sha256 "6c26c04f84759d56c5a1bfce4280867df137f284d29ddc36f807f1f9140837d2"
+  version "1.4.2"
+  sha256 "e719e3e79b7be46b79ba377f2994285a846c91970b961ef7b116551b7335f705"
 
   url "https://github.com/bgfaulk/dittoduo-releases/releases/download/v#{version}/DittoDuo-#{version}.dmg"
   name "DittoDuo"
   desc "Clipboard history manager with optional AI assistant access"
-  homepage "https://dittoduo.vercel.app/"
+  homepage "https://dittoduo.io/"
 
   livecheck do
     url :url
