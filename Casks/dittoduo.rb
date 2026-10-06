@@ -12,6 +12,7 @@ cask "dittoduo" do
     strategy :github_latest
   end
 
+  auto_updates true
   depends_on macos: :sequoia
 
   app "DittoDuo.app"
