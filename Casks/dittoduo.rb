@@ -1,6 +1,6 @@
 cask "dittoduo" do
-  version "1.4.4"
-  sha256 "096109d15f31d5443856e91415711b58f0dc2a08a8f4fa279697aa8e9f4f20b2"
+  version "1.4.5"
+  sha256 "2ec4c7b1ed8ac9110f316a6ccb06f9871bf998e6da7487bd3e5f5f2c499d2ab7"
 
   url "https://github.com/bgfaulk/dittoduo-releases/releases/download/v#{version}/DittoDuo-#{version}.dmg"
   name "DittoDuo"
