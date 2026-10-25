@@ -1,6 +1,6 @@
 # bgfaulk/homebrew-tap
 
-Homebrew casks for [DittoDuo](https://dittoduo.vercel.app), a macOS clipboard history manager.
+Homebrew casks for [DittoDuo](https://dittoduo.io), a macOS clipboard history manager.
 
 ```bash
 brew install --cask bgfaulk/tap/dittoduo
